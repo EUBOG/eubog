@@ -1,16 +1,17 @@
-## Hi there 👋
+# Добрый день!
+# Я Евгений.
 
-<!--
-**EUBOG/eubog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Обо мне
+- Изучаю python вместе с его библиотеками в университете zerocoder
+- e-mail: eubog@yandex.ru
 
-Here are some ideas to get you started:
+### Технологии
+Python
+SQL
+html
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Статистика
+Вся статистика здесь: https://github.com/EUBOG
+
+### Мои проекты
+Все проекты здесь: https://github.com/EUBOG 
