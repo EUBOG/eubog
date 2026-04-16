@@ -4,6 +4,7 @@
 - Я Евгений
 - Изучаю python вместе с его библиотеками в университете zerocoder
 - e-mail: eubog@yandex.ru
+- Сайт: https://eubog.ru
 
 ### Технологии
 - Python
